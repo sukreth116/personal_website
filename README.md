@@ -64,7 +64,7 @@
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: *Add your link here*
-* 📧 Email: *[your-email@example.com](mailto:your-email@example.com)*
+* 📧 Email: *[sukrethom2000@example.com](mailto:sukrethom2000@example.com)*
 
 ---
 
